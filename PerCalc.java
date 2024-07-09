@@ -10,7 +10,7 @@ public class PercentageCalculator extends JFrame {
     // GUI Components
     private JTextField value1Field;
     private JTextField value2Field;
-    private JTextField resultField;
+    private JTextField resultField; 
     private JComboBox<String> operationBox;
 
     public PercentageCalculator() {
